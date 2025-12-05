@@ -1,10 +1,11 @@
 Dorm,Category,PercentCorrect,Weight Correct
-Dupre,Recycling,97.5,5.14 kg
-Dupre,Compost,81.5,8.01 kg
-Dupre,Trash,32.3,3.67 kg
-Doty,Recycling,30.2,0.9 kg
-Doty,Compost,85.7,1.03 kg
-Doty,Trash,38.1,0.24 kg
-Turck,Recycling,69.3,2.24 kg
-Turck,Compost,82.5,1.11 kg
-Turck,Trash,20.8,0.90 kg
+Dupre,Recycling,97.5,5.14
+Dupre,Compost,81.5,8.01
+Dupre,Trash,32.3,3.67
+Doty,Recycling,30.2,0.9
+Doty,Compost,85.7,1.03
+Doty,Trash,38.1,0.24
+Turck,Recycling,69.3,2.24
+Turck,Compost,82.5,1.11
+
+Turck,Trash,20.8,0.90
